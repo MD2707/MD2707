@@ -1,9 +1,9 @@
  I am Mathias Duprat 🇫🇷 , I am 20 years old and I am 2nd year student at computer science BUT (bac +3 diploma) at the iut of Bordeaux.
  During my course I developed a strong interest in full-stack web development:
 
- -HTML
- -CSS
- -JS
+ - HTML
+ - CSS
+ - JS
  - PHP (Symfony)
 
 My ambition is to join a small team made up of different and complementary profiles as a web developer.
